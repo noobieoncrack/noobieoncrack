@@ -1,5 +1,6 @@
-### Hi there 👋
-
+# hi :D
+### i like to code and stuff so like yeah im on here now yippee
+[![GitHub stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=noobieoncrack&theme=dracula)](https://github.com/noobieoncrack/github-readme-stats)
 <!--
 **noobieoncrack/noobieoncrack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
